@@ -1,5 +1,5 @@
-# devops-project
-# Sudu's Project
+# Sudu's devops-project
+
 This project is my first project for devops. This file will have all the details of this project.
 Below is the project structure example
 
